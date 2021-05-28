@@ -1,0 +1,22 @@
+{
+  "name": "team-directory-generator",
+  "version": "1.0.0",
+  "description": "Module 10 OOP Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani-hartley/team-directory-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dani-hartley/team-directory-generator/issues"
+  },
+  "homepage": "https://github.com/dani-hartley/team-directory-generator#readme",
+  "dependencies": {
+    "jest": "^27.0.1"
+  }
+}
