@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dani-hartley/team-directory-generator#readme",
   "dependencies": {
+    "inquirer": "^8.1.0",
     "jest": "^27.0.1"
   }
 }
