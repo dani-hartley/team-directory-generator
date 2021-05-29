@@ -8,3 +8,26 @@ test ('create employee object', () => {
     expect(employee.email).toBe('email');
 });
 
+test ("gets employee's name", () => {
+    const employee = new Employee ('Dani', 234, 'email');
+
+    expect(employee.getName()).toEqual(expect.stringContaining('Dani'));
+});
+
+test('get employee id', () => {
+    const employee = new Employee ('Dani', 234, 'email');
+
+    expect(employee.getId()).toEqual(expect.any(Number));
+});
+
+test('get employee email', () => {
+    const employee = new Employee ('Dani', 234, 'email');
+
+    expect(employee.getEmail()).toEqual(expect.stringContaining('email'));
+});
+
+test('get employee role', () => {
+    const employee = new Employee ('Dani', 234, 'email');
+
+    expect(employee.getRole()).toEqual(expect.stringContaining('Employee'));
+});
