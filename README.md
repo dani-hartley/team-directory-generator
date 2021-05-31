@@ -6,7 +6,7 @@ A command-line application using node.js that creates a web application based on
 
 ## User Story
 
-![User Story](./assets/user-story.png)
+![User Story](https://user-images.githubusercontent.com/79660405/120135027-f8e4d900-c194-11eb-91f4-19418fad5bb4.png)
 
 ## Acceptance Criteria
 
@@ -49,12 +49,12 @@ THEN I exit the application, and the HTML is generated
 
 ### Screenshots
 
-![Passing Tests](./assets/passing-tests.png)
+![Passing Tests](https://user-images.githubusercontent.com/79660405/120135094-1e71e280-c195-11eb-8ac7-fe1aeaf1acac.png)
 
-![User Prompts](./assets/users-prompts.png)
+![User Prompts](https://user-images.githubusercontent.com/79660405/120135153-3b0e1a80-c195-11eb-8d52-0067695b276a.png)
 
-![Generated Index.html](./assets/generated-html.png)
+![Generated Index.html](https://user-images.githubusercontent.com/79660405/120135198-5842e900-c195-11eb-80ff-40b4d0429faf.png)
 
-![Site Preview](./assets/html-preview.png)
+![Site Preview](https://user-images.githubusercontent.com/79660405/120135239-74468a80-c195-11eb-8ef3-26b9994046dc.png)
 
 
